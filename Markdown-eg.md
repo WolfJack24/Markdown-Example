@@ -80,7 +80,7 @@ Smile :joy:
 
 ### Highlight
 
-i need to highlight these <mark>very important words</mark>.
+i need to highlight these == very important words ==.
 
 ### Subscript (~ Wrap)
 
